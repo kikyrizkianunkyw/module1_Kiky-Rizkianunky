@@ -4,7 +4,7 @@ This website is dedicated to providing comprehensive information about coffee sh
 
 
 ## About Me 
-<img src="assets/Kiky.jpeg" alt="Kiky Rizkia" width="200" />
+<img src="https://drive.google.com/file/d/1k55rQU4sB3GORrwQC7BEhULFKbthFzwc/view?usp=drive_link" alt="Kiky Rizkia" width="200" />
 
 
 Hello my name is Kiky Rizkianunky Woluwo, known as Kiky. I was born in 2000. I am from Makassar and graduated from Universitas Hasanuddin Makassar. I like coffee , i used to like robusta beans but now i think i like arabica beans. Thank you.
